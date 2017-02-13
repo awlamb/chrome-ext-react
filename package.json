@@ -1,0 +1,23 @@
+{
+  "name": "chrome-ext-react",
+  "version": "0.0.1",
+  "description": "Chrome Extension boilerplate using React.",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack-dev-server --progress --colors --content-base extension/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "webpack": "^2.2.1"
+  }
+}

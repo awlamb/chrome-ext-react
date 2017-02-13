@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Extension with React",
+  "description": "This boilerplate example allows you to get up and running with React in a Chrome Extension easily!",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
