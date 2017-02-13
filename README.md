@@ -1,2 +1,3 @@
-#To Start the Dev Server
-##npm run serve
+#Chrome Extension Boilerplate w/ ReactJS
+##To Start the Dev Server
+npm run serve
