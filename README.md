@@ -1,6 +1,9 @@
 #Chrome Extension Boilerplate w/ ReactJS
-##To Start the Dev Server
+##To Install
+
 npm install
 
+
+##To Start the Dev Server
 
 npm run serve
