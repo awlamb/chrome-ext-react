@@ -1,14 +1,14 @@
-#Chrome Extension Boilerplate w/ ReactJS
-##To Install
+# Chrome Extension Boilerplate w/ ReactJS
+## To Install
 
 npm install
 
 
-##To Start the Dev Server
+## To Start the Dev Server
 
 npm run serve
 
-##To Install Extension
+## To Install Extension
 
 Navigate to chrome://extensions
 
